@@ -1,0 +1,114 @@
+[33mcommit 23f9ab2b15ca3376a045319f2f683aa77622446e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: yj <741282663@qq.com>
+Date:   Sun Oct 13 23:16:08 2019 +0800
+
+    dropgroup新增group:1900002:100%掉落2000元宝
+
+[33mcommit 7258c5c3f40c2f7445ff419adf61f5fc1e4a6f4c[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: yj <741282663@qq.com>
+Date:   Sun Oct 13 20:19:03 2019 +0800
+
+    修复礼包领取顺序bug
+
+[33mcommit b9aa20c580dd4d41f0fc1db2d0cadb015cddf794[m
+Author: yj <741282663@qq.com>
+Date:   Sun Oct 13 00:35:18 2019 +0800
+
+    战灵：开服第一天开启
+
+[33mcommit a06d46e8a9892c3b345fb5a64f5554a89361fe23[m
+Author: yj <741282663@qq.com>
+Date:   Sun Oct 13 00:32:58 2019 +0800
+
+    跨服3v3：开区第一周开启
+
+[33mcommit 83de9cacef631e4a9629adad763ad2600bc680b2[m
+Author: yj <741282663@qq.com>
+Date:   Sun Oct 13 00:32:32 2019 +0800
+
+    跨服boss：开区第一周开启
+
+[33mcommit 3d6ea5d6a79bdc2d37aa0121a90535d1aff9555c[m
+Author: yj <741282663@qq.com>
+Date:   Sun Oct 13 00:28:26 2019 +0800
+
+    心法：开区第一天开启修改完成
+
+[33mcommit d3d034230682733a577a40be409676a0ba626a6a[m
+Author: yj <741282663@qq.com>
+Date:   Sun Oct 13 00:27:56 2019 +0800
+
+    魂骨：开区第一天开启，修改完成
+
+[33mcommit 2e466a3f1c87064f1b79f1c0326f895f13533ad8[m
+Author: yj <741282663@qq.com>
+Date:   Sat Oct 12 13:18:26 2019 +0800
+
+    vip额外背包顺带修改
+
+[33mcommit 9a689b5d67b3e2fe0b1eb98183cbc1f60d4b93d8[m
+Author: yj <741282663@qq.com>
+Date:   Sat Oct 12 12:27:09 2019 +0800
+
+    购买VIP礼包所需要的元宝及获得的道具修改完成
+
+[33mcommit de43cbe2a28cbfe2aa3b7da5dce1055127d0b098[m
+Author: yj <741282663@qq.com>
+Date:   Sat Oct 12 10:59:42 2019 +0800
+
+    修复v13和v15礼包道具（高级轮回丹无限制*2）；
+    礼包id重新排序
+
+[33mcommit 30f2fa20e96201aa7669c6f419d5787d9af55913[m
+Author: yj <741282663@qq.com>
+Date:   Sat Oct 12 00:22:19 2019 +0800
+
+    vip礼包配置v1-v20修改完成
+
+[33mcommit 9bab5415cd74dbaf35be77d1edc6244371c89c84[m
+Author: yj <741282663@qq.com>
+Date:   Fri Oct 11 17:01:47 2019 +0800
+
+    vip礼包配置v1-v11修改完成，暂不能提供v12-v20礼包
+
+[33mcommit 78eea97a9faed824ba27246b55a623c06c3be2e6[m
+Author: yj <741282663@qq.com>
+Date:   Fri Oct 11 16:59:30 2019 +0800
+
+    神秘商店价格五倍修改完成
+
+[33mcommit 81470cd6ebf2828da7f3f8b705a6d28429a0f01a[m
+Author: yj <741282663@qq.com>
+Date:   Fri Oct 11 15:55:40 2019 +0800
+
+    充值金额1：1000修改完成
+
+[33mcommit 293fe8eabf04df95547d9a8bec09015eeba31b75[m
+Author: yj <741282663@qq.com>
+Date:   Fri Oct 11 15:28:12 2019 +0800
+
+    道具商店价格修改完成
+
+[33mcommit a3c297b72b4ba5d46c934084d06cd3b06d37d437[m
+Author: yj <741282663@qq.com>
+Date:   Fri Oct 11 15:27:16 2019 +0800
+
+    个别道具漏修改回原价，再次修改
+
+[33mcommit 7c1271c7e330cae3c0b9900b0de2bb8d4fe37275[m
+Author: yj <741282663@qq.com>
+Date:   Fri Oct 11 15:16:55 2019 +0800
+
+    道具商城价格还原，上传时已修改过
+
+[33mcommit 60af96d4de90a19f1bff6466eb3f4004ce418ca9[m
+Author: yj <741282663@qq.com>
+Date:   Fri Oct 11 12:06:53 2019 +0800
+
+    限定礼包
+
+[33mcommit 18ee908fe41bf7b09f4be02e07bccba6c880322e[m
+Author: yj <741282663@qq.com>
+Date:   Thu Oct 10 12:36:30 2019 +0800
+
+    初始文件
